@@ -2,12 +2,12 @@
   {
     "repository": "device_google_redbull",
     "target_path": "device/google/redbull",
-    "branch": "thirteen"
+    "branch": "fourteen"
   },
   {
     "repository": "vendor_google_bramble",
     "target_path": "vendor/google/bramble",
-    "branch": "thirteen",
+    "branch": "fourteen",
     "remote": "pixel-devices-blobs"
   }
 ]
